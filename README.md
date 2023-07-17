@@ -1,6 +1,10 @@
 ## run project
+
  # chạy lần đầu: npm instal => yarn dev (hoặc npm run dev)
  # những lần sau: yarn dev (hoặc npm run dev)
+=======
+ # yarn dev (npm run dev)
+
 
 ## icon: https://react-icons.github.io/, react-icons
 
